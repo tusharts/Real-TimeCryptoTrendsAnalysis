@@ -1,10 +1,4 @@
 # Real-Time Crypto Trends Analysis
-Explore cryptocurrency price trends with this Python script. Fetches data from CoinMarketCap API, analyzes trends, and visualizes insights using Pandas and seaborn. Stay informed about cryptocurrency market dynamics!
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-This project demonstrates my skills in data retrieval, manipulation, analysis, and visualization using Python and various libraries such as requests, pandas, and seaborn. The project fetches cryptocurrency data from the CoinMarketCap API, processes it, and performs insightful analysis and visualization.
-
 ## Project Overview
 
 Cryptocurrency markets are highly volatile and dynamic, making them intriguing subjects for data analysis. This project aims to provide a comprehensive analysis of cryptocurrency trends by fetching real-time data from the CoinMarketCap API and conducting various analytical tasks. It leverages Python and Jupyter Notebook for data processing and visualization, allowing for an interactive and informative exploration of cryptocurrency market data.
